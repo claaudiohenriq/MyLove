@@ -1,0 +1,130 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.primeiraImg{
+    width: 150px;
+    height: auto;
+    border-radius: 5px;
+}
+.interno{
+    width: 95%;
+}
+.countdown-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.countdown-display .time-unit{
+    margin: 5px;
+}
+#declaracao{
+    font-size: 15px;
+}
+table{
+    margin: 10px;
+    width: 100%;
+    text-align: center;
+}
+table td{
+    padding: 10px;
+    font-size: 15px;
+}
+table td em{
+    font-size: 20px;
+}
+table td h1{
+    font-family: 'Antic Didone', serif;
+}
+.slider{
+    margin: 0 auto;
+    width: 150px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.slides{
+    width: 150px;
+    height: auto;
+    display: flex;
+}
+.slides input{
+    display: none;
+}
+.slide{
+    width: 100%;
+    position: relative;
+    transition: 2.5s;
+}
+.slide img{
+    width: 150px;
+    height: auto;
+}
+#radio1:checked ~ .first{
+    margin-left: 0;
+}
+#radio2:checked ~ .first{
+    margin-left: -100%;
+}
+#radio3:checked ~ .first{
+    margin-left: -200%;
+}
+#radio4:checked ~ .first{
+    margin-left: -300%;
+}
+#radio5:checked ~ .first{
+    margin-left: -400%;
+}
+#radio6:checked ~ .first{
+    margin-left: -500%;
+}
+#radio7:checked ~ .first{
+    margin-left: -600%;
+}
+#radio8:checked ~ .first{
+    margin-left: -700%;
+}
+#radio9:checked ~ .first{
+    margin-left: -800%;
+}
+#radio10:checked ~ .first{
+    margin-left: -900%;
+}
+#radio11:checked ~ .first{
+    margin-left: -1000%;
+}
+#radio12:checked ~ .first{
+    margin-left: -1100%;
+}
+#radio13:checked ~ .first{
+    margin-left: -1200%;
+}
+#radio14:checked ~ .first{
+    margin-left: -1300%;
+}
+#radio15:checked ~ .first{
+    margin-left: -1400%;
+}
+#radio16:checked ~ .first{
+    margin-left: -1500%;
+}
+#radio17:checked ~ .first{
+    margin-left: -1600%;
+}
+#radio18:checked ~ .first{
+    margin-left: -1700%;
+}
+#radio19:checked ~ .first{
+    margin-left: -1800%;
+}
+#radio20:checked ~ .first{
+    margin-left: -1900%;
+}
+#radio21:checked ~ .first{
+    margin-left: -2000%;
+}
+#radio22:checked ~ .first{
+    margin-left: -2100%;
+}
