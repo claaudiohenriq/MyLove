@@ -60,11 +60,11 @@ function carregarMusica(i) {
 
 function playPause() {
   if (audio.paused) {
-    audio.play();
-    playPauseBtn.textContent = "⏸";
+    audio.play()
+    playPauseBtn.textContent = "⏸"
   } else {
-    audio.pause();
-    playPauseBtn.textContent = "⏯";
+    audio.pause()
+    playPauseBtn.textContent = "⏯"
   }
 }
 
