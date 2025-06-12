@@ -2,36 +2,36 @@ const musicas = [
   {
     titulo: "Birds Of a feather",
     artista: "Billie Eilish",
-    arquivo: "../musicas/Billie Eilish - BIRDS OF A FEATHER.mp3",
+    arquivo: "./musicas/Billie Eilish - BIRDS OF A FEATHER.mp3",
     capa: "imagensMusicas/birds.jpg"
   },
   {
     titulo: "Die With A Smile",
     artista: "Lady Gaga & Bruno Mars",
-    arquivo: "../musicas/Lady Gaga, Bruno Mars - Die With A Smile.mp3",
+    arquivo: "./musicas/Lady Gaga, Bruno Mars - Die With A Smile.mp3",
     capa: "imagensMusicas/dieSmile.jpg"
   },
   {
     titulo: "Ordinary",
     artista: "Alex  Warren",
-    arquivo: "../musicas/Alex Warren - Ordinary.mp3",
+    arquivo: "./musicas/Alex Warren - Ordinary.mp3",
     capa: "imagensMusicas/ordinary.jpeg"
   },
   {
     titulo: "Glue Song",
     artista: "Beabadoobee",
-    arquivo: "../musicas/beabadoobee - Glue Song.mp3",
+    arquivo: "./musicas/beabadoobee - Glue Song.mp3",
     capa: "imagensMusicas/glue.jpeg"
   },{
     titulo: "Cor de Marte",
     artista: "ANAVITÓRIA",
-    arquivo: "../musicas/ANAVITÓRIA - Cor de Marte.mp3",
+    arquivo: "./musicas/ANAVITÓRIA - Cor de Marte.mp3",
     capa: "imagensMusicas/cordemarte.jpeg"
   },
   {
     titulo: "Amor Puro",
     artista: "Djavan",
-    arquivo: "../musicas/Djavan - Um Amor Puro.mp3",
+    arquivo: "./musicas/Djavan - Um Amor Puro.mp3",
     capa: "imagensMusicas/amorpuro.jpg"
   }
 ];
